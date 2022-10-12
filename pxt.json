@@ -1,0 +1,27 @@
+{
+    "name": "prop font test TEST",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "microbit-pxt-speech": "github:bsiever/microbit-pxt-speech#193fe7414735eca5a894415e206ca8914ba97aa5",
+        "pxt-proportional-font": "github:bsiever/pxt-proportional-font#7c7ba0ebecaff6698bb7fe11bad15eac37faee81"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
